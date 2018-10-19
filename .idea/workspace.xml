@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="3" />
+    <option name="y" value="-12" />
+    <option name="width" value="1890" />
+    <option name="height" value="930" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Java Scratch" factoryName="Java Scratch">
+      <option name="MAIN_CLASS_NAME" value="Main.java" />
+      <module name="fxml" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+</project>
