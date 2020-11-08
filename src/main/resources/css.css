@@ -1,0 +1,14 @@
+
+
+
+#bold-label{
+    -fx-background-color: red;
+}
+
+#logIn{
+    -fx-color: yellow;
+}
+
+#logIn:hover{
+    -fx-background-color:red;
+}

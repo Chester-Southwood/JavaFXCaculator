@@ -1,22 +1,377 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="3" />
-    <option name="y" value="-12" />
-    <option name="width" value="1890" />
-    <option name="height" value="930" />
+  <component name="ChangeListManager">
+    <list default="true" id="c53c6b14-5693-4d62-9f4b-3ba1952f450e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jlMKDCqmdrdbPjjhXKog0ZzzRA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Java Scratch" factoryName="Java Scratch">
-      <option name="MAIN_CLASS_NAME" value="Main.java" />
-      <module name="fxml" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.idea" />
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Calculator" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lee\Desktop\Calculator_Maven_GUI\src\main\java" />
+      <recent name="C:\Users\Lee\Desktop\Calculator_Maven_GUI\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ExpressionTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Calculator_Maven_GUI" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="replPortFileType" value="STANDARD" />
+      <setting name="customPortFile" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ExpressionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Calculator_Maven_GUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Calculator" />
+      <option name="MAIN_CLASS_NAME" value="Calculator.ExpressionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpressionTest.complex_6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Calculator_Maven_GUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Calculator" />
+      <option name="MAIN_CLASS_NAME" value="Calculator.ExpressionTest" />
+      <option name="METHOD_NAME" value="complex_6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpressionTest.complex_7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Calculator_Maven_GUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Calculator" />
+      <option name="MAIN_CLASS_NAME" value="Calculator.ExpressionTest" />
+      <option name="METHOD_NAME" value="complex_7" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpressionTest.d" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Calculator_Maven_GUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Calculator" />
+      <option name="MAIN_CLASS_NAME" value="Calculator.ExpressionTest" />
+      <option name="METHOD_NAME" value="d" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ExpressionTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ExpressionTest.d" />
+        <item itemvalue="JUnit.ExpressionTest.complex_7" />
+        <item itemvalue="JUnit.ExpressionTest.complex_6" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c53c6b14-5693-4d62-9f4b-3ba1952f450e" name="Default Changelist" comment="" />
+      <created>1604374158262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604374158262</updated>
+      <workItem from="1604374168110" duration="8431000" />
+      <workItem from="1604734816582" duration="31771000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1800" y="66" key="#Project_Structure" timestamp="1604374584268">
+      <screen x="1680" y="0" width="1280" height="984" />
+    </state>
+    <state x="1800" y="66" key="#Project_Structure/0.0.1680.1010/1680.0.1280.984@1680.0.1280.984" timestamp="1604374584268" />
+    <state x="570" y="252" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604735311992">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="570" y="252" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1604735311992" />
+    <state width="1637" height="266" key="GridCell.Tab.0.bottom" timestamp="1604822715859">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="266" key="GridCell.Tab.0.bottom/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1604822715859" />
+    <state width="1237" height="325" key="GridCell.Tab.0.bottom/0.0.1680.1010/1680.0.1280.984@1680.0.1280.984" timestamp="1604378485494" />
+    <state width="1637" height="266" key="GridCell.Tab.0.center" timestamp="1604822715859">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="266" key="GridCell.Tab.0.center/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1604822715859" />
+    <state width="1237" height="325" key="GridCell.Tab.0.center/0.0.1680.1010/1680.0.1280.984@1680.0.1280.984" timestamp="1604378485494" />
+    <state width="1637" height="266" key="GridCell.Tab.0.left" timestamp="1604822715859">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="266" key="GridCell.Tab.0.left/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1604822715859" />
+    <state width="1237" height="325" key="GridCell.Tab.0.left/0.0.1680.1010/1680.0.1280.984@1680.0.1280.984" timestamp="1604378485494" />
+    <state width="1637" height="266" key="GridCell.Tab.0.right" timestamp="1604822715859">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="266" key="GridCell.Tab.0.right/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1604822715859" />
+    <state width="1237" height="325" key="GridCell.Tab.0.right/0.0.1680.1010/1680.0.1280.984@1680.0.1280.984" timestamp="1604378485494" />
+    <state width="1637" height="325" key="GridCell.Tab.1.bottom" timestamp="1604813941845">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="325" key="GridCell.Tab.1.bottom/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1604813941845" />
+    <state width="1237" height="325" key="GridCell.Tab.1.bottom/0.0.1680.1010/1680.0.1280.984@1680.0.1280.984" timestamp="1604378485926" />
+    <state width="1637" height="325" key="GridCell.Tab.1.center" timestamp="1604813941845">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="325" key="GridCell.Tab.1.center/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1604813941845" />
+    <state width="1237" height="325" key="GridCell.Tab.1.center/0.0.1680.1010/1680.0.1280.984@1680.0.1280.984" timestamp="1604378485926" />
+    <state width="1637" height="325" key="GridCell.Tab.1.left" timestamp="1604813941845">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="325" key="GridCell.Tab.1.left/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1604813941845" />
+    <state width="1237" height="325" key="GridCell.Tab.1.left/0.0.1680.1010/1680.0.1280.984@1680.0.1280.984" timestamp="1604378485926" />
+    <state width="1637" height="325" key="GridCell.Tab.1.right" timestamp="1604813941845">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="325" key="GridCell.Tab.1.right/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1604813941845" />
+    <state width="1237" height="325" key="GridCell.Tab.1.right/0.0.1680.1010/1680.0.1280.984@1680.0.1280.984" timestamp="1604378485926" />
+    <state x="1850" y="147" key="Maven.ArtifactSearchDialog" timestamp="1604375019574">
+      <screen x="1680" y="0" width="1280" height="984" />
+    </state>
+    <state x="1850" y="147" key="Maven.ArtifactSearchDialog/0.0.1680.1010/1680.0.1280.984@1680.0.1280.984" timestamp="1604375019574" />
+    <state x="1800" y="66" key="SettingsEditor" timestamp="1604376024756">
+      <screen x="1680" y="0" width="1280" height="984" />
+    </state>
+    <state x="1800" y="66" key="SettingsEditor/0.0.1680.1010/1680.0.1280.984@1680.0.1280.984" timestamp="1604376024756" />
+    <state x="2091" y="286" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1604374888755">
+      <screen x="1680" y="0" width="1280" height="984" />
+    </state>
+    <state x="2091" y="286" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1680.1010/1680.0.1280.984@1680.0.1280.984" timestamp="1604374888755" />
+    <state x="2027" y="225" width="585" height="534" key="find.popup" timestamp="1604375888461">
+      <screen x="1680" y="0" width="1280" height="984" />
+    </state>
+    <state x="2027" y="225" width="585" height="534" key="find.popup/0.0.1680.1010/1680.0.1280.984@1680.0.1280.984" timestamp="1604375888461" />
+    <state x="491" y="217" width="696" height="678" key="search.everywhere.popup" timestamp="1604776663319">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="491" y="217" width="696" height="678" key="search.everywhere.popup/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1604776663319" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Calculator/Expression.java</url>
+          <line>155</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Calculator/ExpressionTest.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Calculator/Expression.java</url>
+          <line>124</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Calculator/Expression.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Calculator/ExpressionTest.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Calculator/ExpressionTest.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Calculator/Expression.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Calculator/Expression.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Calculator/Expression.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Calculator_Maven_GUI$ExpressionTest_basicMod.ic" NAME="ExpressionTest.basicMod Coverage Results" MODIFIED="1604814168630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Calculator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Calculator_Maven_GUI$ExpressionTest_basicSubtraction_2.ic" NAME="ExpressionTest.basicSubtraction_2 Coverage Results" MODIFIED="1604812646929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Calculator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Calculator_Maven_GUI$ExpressionTest_b.ic" NAME="ExpressionTest.b Coverage Results" MODIFIED="1604776480504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Calculator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Calculator_Maven_GUI$ExpressionTest_error.ic" NAME="ExpressionTest.error Coverage Results" MODIFIED="1604813833853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Calculator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Calculator_Maven_GUI$ExpressionTest_d.ic" NAME="ExpressionTest.d Coverage Results" MODIFIED="1604821628569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Calculator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Calculator_Maven_GUI$ExpressionTest_complex_6.ic" NAME="ExpressionTest.complex_6 Coverage Results" MODIFIED="1604821438450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Calculator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Calculator_Maven_GUI$ExpressionTest_basicExponents.ic" NAME="ExpressionTest.basicExponents Coverage Results" MODIFIED="1604812529613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Calculator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Calculator_Maven_GUI$ExpressionTest.ic" NAME="ExpressionTest Coverage Results" MODIFIED="1604823344917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Calculator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Calculator_Maven_GUI$ExpressionTest_basic_addition_2.ic" NAME="ExpressionTest.basic_addition_2 Coverage Results" MODIFIED="1604810515827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Calculator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Calculator_Maven_GUI$ExpressionTest_complex_4.ic" NAME="ExpressionTest.complex_4 Coverage Results" MODIFIED="1604806974092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Calculator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Calculator_Maven_GUI$ExpressionTest_complex_2.ic" NAME="ExpressionTest.complex_2 Coverage Results" MODIFIED="1604806021270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Calculator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Calculator_Maven_GUI$ExpressionTest_basicExponents_2.ic" NAME="ExpressionTest.basicExponents_2 Coverage Results" MODIFIED="1604812639690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Calculator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Calculator_Maven_GUI$Main.ic" NAME="Main Coverage Results" MODIFIED="1604818967733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Calculator_Maven_GUI$ExpressionTest_basicSubtraction.ic" NAME="ExpressionTest.basicSubtraction Coverage Results" MODIFIED="1604376773301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Calculator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Calculator_Maven_GUI$ExpressionTest_basic_addition.ic" NAME="ExpressionTest.basic_addition Coverage Results" MODIFIED="1604376673614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Calculator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Calculator_Maven_GUI$ExpressionTest_basic_addition_1.ic" NAME="ExpressionTest.basic_addition_1 Coverage Results" MODIFIED="1604811338393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Calculator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Calculator_Maven_GUI$ExpressionTest_c.ic" NAME="ExpressionTest.c Coverage Results" MODIFIED="1604790047094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Calculator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Calculator_Maven_GUI$ExpressionTest_basicSubtraction_1.ic" NAME="ExpressionTest.basicSubtraction_1 Coverage Results" MODIFIED="1604810995925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Calculator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Calculator_Maven_GUI$ExpressionTest_basicSubtraction_3.ic" NAME="ExpressionTest.basicSubtraction_3 Coverage Results" MODIFIED="1604810520630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Calculator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Calculator_Maven_GUI$ExpressionTest_a.ic" NAME="ExpressionTest.a Coverage Results" MODIFIED="1604805678577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Calculator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Calculator_Maven_GUI$ExpressionTest_complex_5.ic" NAME="ExpressionTest.complex_5 Coverage Results" MODIFIED="1604814225655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Calculator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Calculator_Maven_GUI$ExpressionTest_complex_7.ic" NAME="ExpressionTest.complex_7 Coverage Results" MODIFIED="1604821459345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Calculator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Calculator_Maven_GUI$ExpressionTest_complex_3.ic" NAME="ExpressionTest.complex_3 Coverage Results" MODIFIED="1604806098868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Calculator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Calculator_Maven_GUI$ExpressionTest_complex_1.ic" NAME="ExpressionTest.complex_1 Coverage Results" MODIFIED="1604735689417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Calculator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Calculator_Maven_GUI$ExpressionTest_basicDivision.ic" NAME="ExpressionTest.basicDivision Coverage Results" MODIFIED="1604376900307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Calculator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Calculator_Maven_GUI$ExpressionTest_basicMultiplication.ic" NAME="ExpressionTest.basicMultiplication Coverage Results" MODIFIED="1604376854715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Calculator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Calculator_Maven_GUI$ExpressionTest_basicMultiplication_2.ic" NAME="ExpressionTest.basicMultiplication_2 Coverage Results" MODIFIED="1604813231242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Calculator.*</FILTER>
+    </SUITE>
   </component>
 </project>

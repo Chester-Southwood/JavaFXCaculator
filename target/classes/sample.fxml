@@ -6,9 +6,10 @@
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.layout.VBox?>
 
-<AnchorPane maxHeight="210.0" maxWidth="275.0" minHeight="-Infinity" minWidth="-Infinity" prefHeight="214.0" prefWidth="275.0" xmlns="http://javafx.com/javafx/9" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller">
+<AnchorPane maxHeight="210.0" maxWidth="275.0" minHeight="-Infinity" minWidth="-Infinity" prefHeight="214.0" prefWidth="275.0" xmlns="http://javafx.com/javafx/9" xmlns:fx="http://javafx.com/fxml/1" fx:controller="JavaFX.Controller">
    <children>
       <VBox prefHeight="210.0" prefWidth="280.0">
+         <children>
             <TextField fx:id="myTextField" editable="false" prefHeight="50.0" prefWidth="275.0" />
             <HBox prefHeight="68.0" prefWidth="280.0">
                <children>
@@ -52,6 +53,7 @@
                   <Button fx:id="equal" mnemonicParsing="false" onAction="#equalButtonClicked" prefHeight="34.0" prefWidth="169.0" text="Calculate" />
                </children>
             </HBox>
+         </children>
       </VBox>
    </children>
 </AnchorPane>
